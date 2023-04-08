@@ -8,7 +8,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cae9b25f-4166-4598-afa8-66eebf2ffad0" name="变更" comment="" />
+    <list default="true" id="cae9b25f-4166-4598-afa8-66eebf2ffad0" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS - Bacon Fansite/CSS/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS - Bacon Fansite/CSS/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS - Bacon Fansite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS - Bacon Fansite/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +25,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/The Complete 2023 Web Development Bootcamp",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,10 +78,14 @@
       <workItem from="1679408903278" duration="1356000" />
       <workItem from="1679493879712" duration="1588000" />
       <workItem from="1680187202724" duration="2089000" />
+      <workItem from="1680965083008" duration="1542000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
